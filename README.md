@@ -1,5 +1,8 @@
 # nextjs-md-docs-to-pdf
 
+![alt text](assets/Logo.svg)
+
+
 This is a script that converts NextJS documentation in Markdown format to a PDF file. The purpose of this project is to simplify and streamline the process of converting documentation to a format that can be easily read and distributed, while also making it convenient for researchers and developers to train artificial intelligence models using the documentation.
 
 ## Why I created this project
