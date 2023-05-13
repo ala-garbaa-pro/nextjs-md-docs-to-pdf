@@ -14,6 +14,11 @@ This is why I created this project - to provide a simple and fast way to convert
 
 To use this script, you need to have Node.js installed. Once you have Node.js installed, run the following command to install the required dependencies:
 
+## Check out this vid for a quick demo:
+
+[![Demo Video](https://img.youtube.com/vi/dGVZvO14iow/0.jpg)](https://www.youtube.com/watch?v=dGVZvO14iow)
+
+
 ```bash
 npm install
 ```
