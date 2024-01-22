@@ -9,7 +9,8 @@ This is a script that converts NextJS documentation in Markdown format to a PDF 
 
 As a developer, I often find myself referring to documentation to learn new technologies and APIs. However, sometimes the process of navigating through documentation can be cumbersome, especially if the documentation is not in a format that is easy to read or search. Additionally, when training artificial intelligence models to understand a specific technology or API, having the documentation in a standardized format can be very helpful.
 
-This is why I created this project - to provide a simple and fast way to convert NextJS documentation to a PDF file, which can be easily read and distributed. Additionally, by providing the documentation in a standardized format, researchers and developers can train artificial intelligence models to understand the technology more easily and accurately, which can have many benefits.
+The genesis of this project lies in my endeavor to establish an uncomplicated and efficient method for transforming NextJS documentation into a PDF format. This facilitates effortless reading and distribution. Furthermore, the adoption of a standardized format ensures that researchers and developers can seamlessly train artificial intelligence models to comprehend the technology with greater ease and precision, yielding numerous advantages.
+
 ## Installation
 
 To use this script, you need to have Node.js installed. Once you have Node.js installed, run the following command to install the required dependencies:
